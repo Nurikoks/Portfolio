@@ -1,2 +1,0 @@
-# Portfolio
-MyPortfolioForAssignment3Web
